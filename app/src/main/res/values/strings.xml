@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="app_title">PHP Dev Test</string>
+    <string name="description">Check if you are good PHP programmer</string>
+    <string name="hint">Here is your answer ... Yes or no?</string>
+    <string name="submit">Submit</string>
+
+    <string name="Question_first">What PHP stands for?</string>
+    <string name="Answer_first_A">PHP: Hypertext Preprocessor</string>
+    <string name="Answer_first_B">Personal Hypertext Processor</string>
+    <string name="Answer_first_C">Powerful Holy Paladin</string>
+    <string name="Answer_first_D">Private Home Page</string>
+
+    <string name="Question_second">Is php server side language?</string>
+
+    <string name="Question_third">Write "Hello World!"  in PHP</string>
+    <string name="Answer_third_A">"Hello World";</string>
+    <string name="Answer_third_B">echo "Hello World";</string>
+    <string name="Answer_third_C">printr("Hello world!");</string>
+    <string name="Answer_third_D">return "Hello world!";</string>
+
+    <string name="Question_fourth">Variables in PHP start with?</string>
+    <string name="Answer_fourth_A">$</string>
+    <string name="Answer_fourth_B">!</string>
+    <string name="Answer_fourth_C">.</string>
+    <string name="Answer_fourth_D">*</string>
+
+    <string name="Question_fifth">The PHP syntax is most similar to:</string>
+    <string name="Answer_fifth_A">Perl</string>
+    <string name="Answer_fifth_B">C</string>
+    <string name="Answer_fifth_C">JavaScript</string>
+    <string name="Answer_fifth_D">HTML</string>
+
+    <string name="Question_sixth">Is PHP OOP?</string>
+</resources>

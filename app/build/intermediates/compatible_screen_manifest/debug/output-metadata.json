@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "wa12rior.gmail.com.quizapp",
+  "variantName": "debug",
+  "elements": []
+}

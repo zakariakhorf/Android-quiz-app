@@ -1,0 +1,5 @@
+wa12rior/gmail/com/quizapp/MainActivity.java
+ wa12rior.gmail.com.quizapp.MainActivity
+ wa12rior.gmail.com.quizapp.MainActivity$1
+wa12rior/gmail/com/quizapp/BuildConfig.java
+ wa12rior.gmail.com.quizapp.BuildConfig
